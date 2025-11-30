@@ -1,19 +1,20 @@
 # Hi, I'm Julius 👋
 
-**AI Safety Researcher & Full-Stack Engineer** building responsible AI systems that work in the real world.
+**AI Safety Researcher, Senior Technology & Product Manager, and Full-Stack Engineer** building responsible AI systems that work in the real world.
 
 ## What I Do
 
 - 🛡️ **AI Safety & Governance** — Contributing to global AI safety research coordination through [SPAR](https://sparai.org) and building ethical AI frameworks
-- 🏗️ **Product & Engineering** — 8+ years shipping production systems in healthcare, governance, legal tech, and recruitment
+- 🚀 **Product & Technology Leadership** — 8+ years leading cross-functional teams, shipping production systems in healthcare, governance, legal tech, and recruitment
+- 🏗️ **Full-Stack Engineering** — Building pixel-perfect, production-ready applications from design to deployment
 - 🎓 **Learning** — Currently pursuing MSc Data Science at University of Ghana, focusing on AI alignment and responsible AI systems
 - 🌍 **Impact** — Built systems that reduced legal licensing from 2 months to 5 minutes, and governance tools used by multinational organizations globally
 
 ## Current Work
 
-- Building **AI Safety Connect** — a platform mapping global AI safety researchers and organizations
-- Developing AI-powered health insights at **CuraAlert** with rigorous safety considerations
-- Leading AI governance initiatives at **TheBoardroom Africa**
+- Building **AI Safety Connect** — a platform mapping global AI safety researchers and organizations (Product Strategy & Development Lead)
+- Developing AI-powered health insights at **CuraAlert** as Senior Software Engineer with rigorous safety considerations
+- Leading product strategy and AI governance initiatives at **TheBoardroom Africa** as Senior Technology & Product Manager
 - Maintaining [CIRIS](https://ciris.ai) — an AI ethical framework (Compliance, Inclusion, Responsibility, Integrity, Safety)
 
 ## Tech Stack
@@ -34,7 +35,7 @@ I believe AI systems should be:
 
 ## Notable Projects
 
-- 🏛️ GovernanceBaseline — Data-driven board performance evaluation platform
+- 🏛️ [GovernanceBaseline](https://governancebaseline.com) — Data-driven board performance evaluation platform
 - ⚖️ Legal Licensing System — Reduced processing time from 60 days to 5 minutes
 - 🏥 Health Insurance Management — Streamlined policy administration and claims processing
 - 📚 Examination Management System — Automated student progression, resits, and academic decisions
