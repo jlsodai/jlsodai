@@ -1,6 +1,6 @@
 # Hi, I'm Julius 👋
 
-**AI Safety Researcher & Full-Stack Engineer** building responsible AI systems that work in the real world, with a focus on African contexts.
+**AI Safety Researcher & Full-Stack Engineer** building responsible AI systems that work in the real world.
 
 ## What I Do
 
